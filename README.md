@@ -9,7 +9,8 @@ Score updation and basic features.<br>
                      Player 2 - arrow keys</p>
 <b>Instructions</b> : Player controls tha mallets , disc as soon as hits either goal , score is accounted and disc is reset at center<br> 
 
-<b>Test:</b> 
+<br>
+<b>Test Run:</b> 
 
 <p align="center"><img src="test_run.gif"  /></p>
 
